@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  
+}
+
+body{
+
+    background-color: black;
+
+
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 90%;
+}
+
+main{
+    width: 100%;
+   
+
+
+
+}
+
+
+.titulo {
+    color: white;
+    padding-top: 30px;
+    padding-left: 10px;
+  }
